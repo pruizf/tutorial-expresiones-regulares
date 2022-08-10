@@ -1,5 +1,7 @@
 # Tutorial de expresiones regulares
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6981766.svg)](https://doi.org/10.5281/zenodo.6981766)
+
 Tutorial de expresiones regulares para un público no técnico. Ejemplos en castellano.
 
 Consta de los materiales siguientes:
