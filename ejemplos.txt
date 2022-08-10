@@ -1,0 +1,79 @@
+TEXTOS DE EJEMPLO PARA PRESENTACIÓN SOBRE EXPRESIONES REGULARES
+
+Los ejemplos del tutorial se pueden reproducir con los textos siguientes
+
+# Diapositivas 12 and 15
+
+La manera que tiene
+sobre todo en verano
+de ser un paraíso.
+Aunque, de cuando en cuando,
+
+si alguna de esas noches
+que las carga el diablo
+uno piensa en la historia
+de estos últimos años,
+
+# Diapositivas 16 and 17
+
+La nostalgia del sol en los terrados,
+en el muro color paloma de cemento
+–sin embargo tan vívido– y el frío
+repentino que casi sobrecoge.
+
+La dulzura, el calor de los labios a solas
+en medio de la calle familiar
+igual que un gran salón, donde acudieran
+multitudes lejanas como seres queridos.
+
+# Diapositiva 19
+
+balalaica uralaltaica
+
+# Diapositiva 20
+
+Es sin duda el momento de pensar
+que el hecho de estar vivo exige algo,
+acaso heroicidades –o basta, simplemente,
+alguna humilde cosa común
+
+cuya corteza de materia terrestre
+tratar entre los dedos, con un poco de fe?
+Palabras, por ejemplo.
+Palabras de familia gastadas tibiamente.
+
+# Diapositiva 21
+
+envuelve la balalaica en albal
+
+# Diapositiva 22
+
+el sombrerero va a querer vender sombreros por doquier
+
+# Diapositiva 23
+
+b
+be
+bee
+baa
+
+# Diapositivas 27 and 28
+
+En este texto la primera palabra con la letra "a" y la última no son iguales
+
+# Diapositivas 47 and 49: Same text as for Slides 14 and 15 above
+
+# Diapositiva 55
+
+La autopista de Alabama
+
+# Diapositiva 58
+
+El koala bebe cacao en la barbacoa de Bilbao
+
+# Diapositiva 62 and following ones
+
+John Smith
+Jane Jones
+
+
