@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Elegías de Teognis <ptr target="https://es.wikipedia.org/wiki/Teognis/"/>
+				</title>
+				<author>Patricia Garrido Teixeira </author>
+				<respStmt>
+					<resp>Tutelado por: </resp>
+					<name>Adrián Riesco</name>
+					<name>Juan Antonio Álvarez-Pedrosa</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<p>Trabajo de Fin de Máster de Patricia Garrido.</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Elegías de Teognis</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="elegías">
+				<head>Libro 1</head>
+				<div type="elegías">
+					<head>Libro 1</head>
+					<div n="1">
+						
+							Oh soberano, hijo de Leto, vástago de Zeus,
+							de ti nunca me olvidaré al comenzar ni al concluir, sino que siempre
+                            el primero, el último y en medio te cantaré. Mas tú escúchame y concédeme
+							tu favor. Soberano Febo, cuando te dio a luz la augusta
+							diosa Leto, sujeta a una palmera con gráciles manos, a ti, el
+							más bello de los inmortales, junto a una laguna redondeada, la
+							sagrada Delos se llenó toda de una divina fragancia, y la enorme
+							tierra sonrió y se gozó el profundo abismo de la mar canosa.
+						
+							Ártemis cazadora, hija de zeus, quien Agamenón erigió un
+							templo, cuando hacia Troya navegaba con raudas naves, escúchame
+                            a mí, que te imploro, y aparta las funestas Ceres: para ti,
+							diosa, esto es algo pequeño, para mi grande.
+					
+							Musas y Gracias, hijas de Zeus, que anataño, cuando a la boda
+							de Cadmo acudisteis, cantasteis este hermoso verso: "Lo que es
+							bello es querido; lo que no es bello, no es querido". Este verso
+							salió de vuestras bocas inmortales.
+						
+                            Cirno, para mí que soy un artista instruido un sello quede
+							impuesto sobre estos versos: si son robados, nunca pasarán
+							inadvertidos, y nadie estropeará lo que de bueno hay en ellos.
+						
+							Todo el mundo dirá así: "Son versos de Teognis de Mégara":
+                            célebre entre todos los hombres. Mas a todos mis conciudadanos
+							en modo alguno puedo agradarlos. Nada extraño, Polipaides; en
+							efecto, tampoco Zeus agrada a todos cuando envía la lluvia ni cuando la detiene.
+						
+							Por sentir afecto hacia ti, te aconsejaré, Cirno, lo que yo mismo,
+                            siendo aún un niño, aprendí de los hombres de bien. Sé
+							sensato y no busques mediante acciones deshonrosas ni injustas
+                            honores ni méritos ni riqueza.
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
+
